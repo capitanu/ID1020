@@ -1,0 +1,3 @@
+a) insertion sort
+b) insertion sort
+c) selection sort

@@ -1,0 +1,3 @@
+2) The size of the hash array should depend a lot of the hashing data structure. This means, a Linead Probing should probably start with a little more than Separate Chaining,
+For this example, none of them are actually good because none are prime numbers. Prime numbers are going to give better results. Closest to being useful are 4711 and 4713 as you can write those in product of 2 prime numbers. 
+For Separate Chaining, also smaller values could work too.

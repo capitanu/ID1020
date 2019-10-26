@@ -1,0 +1,5 @@
+
+
+8)
+
+In this assignment, I have gathered characters one by one. I check if the first one matches my search word and if so, I continue until the size of my search word is reached. If all characters match, then I print the index. The index is incremented every time I read a new character. There is no need for a data structure here.

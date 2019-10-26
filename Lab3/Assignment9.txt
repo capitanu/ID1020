@@ -1,0 +1,4 @@
+
+9)
+
+Tests here are pretty similar to previous tests. Everything is done within the classes themselves. I read word by word and send them to hashing classes with their methods. The iterating is done manually inside the hash classes. Linear seems faster but is surely more memory inefficient.

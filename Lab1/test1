@@ -1,0 +1,46 @@
+
+
+  /*int a[6];
+  int i = 0;
+  for(; i < 6; i++)
+    a[i] = 0;
+  char c;
+  while((c = getchar()) != EOF)
+    switch (c){
+    case '(':
+      a[0]++;
+      break;
+    case ')':
+      a[1]++;
+      break;
+    case '{':
+      a[2]++;
+      break;
+    case '}':
+      a[3]++;
+      break;
+    case '[':
+      a[4]++;
+      break;
+    case ']':
+      a[5]++;
+      break;
+    default:
+      break;
+    }
+  ifa[0] == a[1])
+    printf(" '(' and ')' are balanced\n");
+  else
+    printf(" '(' and ')' are not balanced\n");
+  if(a[2] == a[3])
+    printf(" '{' and '}' are balanced\n");
+  else
+    printf(" '{' and '}' are not balanced\n");
+		
+  if(a[4] == a[5])
+    printf(" '[' and ']' are balanced\n";
+  else
+  printf(" '[' and ']' are not balanced\n");*/
+
+
+

@@ -1,0 +1,5 @@
+There are going to be 3 comparisons and 2 swaps in total:
+1) 5 compared to 9 and swapped
+2) 5 compared to 8 and swapped
+3) 5 compared to 4.
+
